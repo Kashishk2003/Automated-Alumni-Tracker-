@@ -1,5 +1,5 @@
-#Automated-Alumni-Tracker
-### alumni intelligence for universities
+# Automated-Alumni-Tracker 
+### AI-powered alumni intelligence for universities
 
 > Automatically track, search, and analyze where your alumni are — without anyone updating anything manually.
 
